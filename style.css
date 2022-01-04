@@ -9,8 +9,14 @@ h1{
 h3{
     color: whitesmoke;
 }
+.heading{
+    color: orange;
+}
 p{
-    color: whitesmoke;
+    color: rgb(202, 207, 211);
+}
+.p2{
+    color: slategray;
 }
 .header-color-change{
     color: yellow;
@@ -21,6 +27,10 @@ section{
 .half-width{
     width: 50%;
 }
+.half-width2{
+    width: 50%;
+    padding-left: 10%;
+}
 .hire-me-button{
     text-decoration: none;
     background-color: orange;
@@ -28,4 +38,11 @@ section{
     border-radius: 5px;
     background-image: linear-gradient(yellow,tomato);
     color: whitesmoke;
+}
+.image2{
+    width: 50%;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
 }
