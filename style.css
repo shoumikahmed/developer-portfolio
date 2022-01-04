@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -17,13 +18,8 @@ p{
 section{
     display: flex;
 }
-.image{
-    width: 80px;
-    height: 80px;
-}
 .half-width{
     width: 50%;
-    padding-right: 2%;
 }
 .hire-me-button{
     text-decoration: none;
